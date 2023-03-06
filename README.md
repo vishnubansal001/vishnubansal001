@@ -59,15 +59,11 @@
             alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" /> </a> </p>
-<p>&nbsp;<img align="center"
+<p><img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=vishnubansal001&show_icons=true&locale=en"
                 alt="vishnubansal001" /></p>
-<center>
-    <p><img align="left"
+    <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnubansal001&show_icons=true&locale=en&layout=compact"
             alt="vishnubansal001" /></p>
-</center>
-<center>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnubansal001&"
             alt="vishnubansal001" /></p>
-</center>
