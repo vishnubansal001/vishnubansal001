@@ -112,7 +112,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnubansal001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="193" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnubansal001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnubansal001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=16&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=vishnubansal001&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=7&order=3" height="193" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=vishnubansal001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnubansal001&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=black" height="300" alt="activity-graph graph"  />
